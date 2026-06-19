@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 About Me:
+I'm a [student/developer]
 
-<!--
-**menzer-david/menzer-david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/menzer_david)
 
-Here are some ideas to get you started:
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Tkinter](https://img.shields.io/badge/Tkinter-000000?logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Projects:
+- [Text Editor](https://github.com/yourusername/text-editor) - A simple Python text editor
