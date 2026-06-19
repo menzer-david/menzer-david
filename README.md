@@ -10,4 +10,4 @@ I'm a [student/developer]
 ![Tkinter](https://img.shields.io/badge/Tkinter-000000?logo=python)
 
 ## 📊 Current Projects:
-- [Text Editor](https://github.com/menzer-david/text-editor) - A simple Python text editor
+- [Text Editor](https://github.com/menzer-david/AI-Text-Editor) - A simple Python text editor
