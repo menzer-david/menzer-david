@@ -10,6 +10,9 @@ I'm a student/developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tkinter](https://img.shields.io/badge/Tkinter-000000?logo=python)
 
-## 📊 Current Projects:
+## ⭐ Important Projects:
+- None yet im kinda stupid
+
+## 📊 Projects:
 - [Text Editor](https://github.com/menzer-david/text-editor) - A simple Python text editor
 - [Pong Game](https://pong-bice-ten.vercel.app/) - A simple Pong game([Repo](https://github.com/menzer-david/pong))
