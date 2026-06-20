@@ -16,7 +16,7 @@ I'm a student/developer
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=menzer-david&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/menzer-david)
 
 ## ⭐ Important Projects:
-- None yet im kinda stupid
+- None yet
 
 ## 📊 Projects:
 - [Text Editor](https://github.com/menzer-david/text-editor) - A simple Python text editor
