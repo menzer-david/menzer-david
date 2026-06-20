@@ -10,6 +10,11 @@ I'm a student/developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tkinter](https://img.shields.io/badge/Tkinter-000000?logo=python)
 
+## 📊 GitHub Stats:
+[![](https://github-readme-stats.vercel.app/api?username=menzer-david&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/menzer-david)
+[![](https://streak-stats.demolab.com/?user=menzer-david&theme=dark&hide_border=false)](https://github.com/menzer-david)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=menzer-david&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/menzer-david)
+
 ## ⭐ Important Projects:
 - None yet im kinda stupid
 
