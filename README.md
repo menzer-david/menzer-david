@@ -1,5 +1,5 @@
 ## 👋 About Me:
-I'm a student/developer
+I'm a student/developer.
 I am interested in AI Automation and Game Development
 
 ## 🌐 Socials:
