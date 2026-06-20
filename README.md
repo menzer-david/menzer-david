@@ -23,4 +23,4 @@ I am interested in AI Automation and Game Development
 - [Text Editor](https://github.com/menzer-david/text-editor) - A simple Python text editor
 - [Pong Game](https://pong-bice-ten.vercel.app/) - A simple Pong game ([Repo](https://github.com/menzer-david/pong))
 - [Drawing Tool](https://drawing-tool-theta-rust.vercel.app/) - A simple drawing tool made with p5.js ([Repo](https://github.com/menzer-david/drawing-tool/))
-- [World Cup 2026]([https://github.com/menzer-david/world-cup-2026](https://world-cup-2026-alpha-three.vercel.app/)) - A World Cup 2026 project ([Repo](https://github.com/menzer-david/world-cup-2026/)
+- [World Cup 2026](https://world-cup-2026-alpha-three.vercel.app/) - A World Cup 2026 project ([Repo](https://github.com/menzer-david/world-cup-2026/))
