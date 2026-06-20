@@ -12,3 +12,4 @@ I'm a student/developer
 
 ## 📊 Current Projects:
 - [Text Editor](https://github.com/menzer-david/text-editor) - A simple Python text editor
+- [Pong Game](https://pong-bice-ten.vercel.app/) - A simple Pong game - ([Repo](https://github.com/menzer-david/pong))
