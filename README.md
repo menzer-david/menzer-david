@@ -1,6 +1,6 @@
 ## 👋 About Me:
 I'm a student/developer.
-I am interested in AI Automation and Game Development
+I am interested in AI Automation, Web Development, and Game Development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/menzer_david)
