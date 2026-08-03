@@ -28,6 +28,7 @@ Lately I've been building 3D scroll-driven websites, local-first macOS tools, an
 
 ## ⭐ Important Projects:
 - [Dictopus](https://github.com/menzer-david/Dictopus) - 🐙 Free, fully local push-to-talk dictation for macOS — no cloud, no account, no subscription
+- [Dashboard](https://github.com/menzer-david/SchoolDashboard) - School dashboard that pulls assignments and emails and uses AI to summarize and organize my work
 
 ## 📊 Projects:
 - [Shadow Runner](https://shadow-runner-ten.vercel.app/) - A 2D stealth platformer where you play as a shadow ([Repo](https://github.com/menzer-david/shadow-runner))
