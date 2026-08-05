@@ -21,11 +21,6 @@ Lately I've been building 3D scroll-driven websites, local-first macOS tools, an
 ![Tkinter](https://img.shields.io/badge/Tkinter-000000?logo=python)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=menzer-david&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/menzer-david)
-[![](https://streak-stats.demolab.com/?user=menzer-david&theme=dark&hide_border=false)](https://github.com/menzer-david)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=menzer-david&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/menzer-david)
-
 ## ⭐ Important Projects:
 - [Dictopus](https://github.com/menzer-david/Dictopus) - 🐙 Free, fully local push-to-talk dictation for macOS — no cloud, no account, no subscription
 - [Dashboard](https://github.com/menzer-david/SchoolDashboard) - School dashboard that pulls assignments and emails and uses AI to summarize and organize my work
