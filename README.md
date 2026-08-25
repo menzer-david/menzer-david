@@ -35,6 +35,7 @@ Lately I've been building 3D scroll-driven websites, local-first macOS tools, an
 ## 🎓 Certifications:
 - [FreeCodeCamp Python Certification](https://www.freecodecamp.org/certification/fcc-0cb81a31-1381-49c0-8588-f744620ac535/python-v9)
 - [Kaggle Pandas Certification](https://www.kaggle.com/learn/certification/davidmenzer/pandas)
+- [Kaggle Intro to Machine Learning Certification]([https://www.kaggle.com/learn/certification/davidmenzer/pandas](https://www.kaggle.com/learn/certification/davidmenzer/intro-to-machine-learning))
 
 ##
 > *"Your pain is the breaking of the shell that encloses your understanding... It is the bitter potion by which the physician within you heals your sick self."*
