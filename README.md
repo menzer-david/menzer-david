@@ -21,10 +21,11 @@ I am interested in AI Automation, Web Development, and Game Development.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ## ⭐ Important Projects:
-- [Dictopus](https://github.com/menzer-david/Dictopus) - 🐙 Free, fully local push-to-talk dictation for macOS — no cloud, no account, no subscription
 - [Dashboard](https://github.com/menzer-david/SchoolDashboard) - School dashboard that pulls assignments and emails and uses AI to summarize and organize my work
+- [Digit Classification ML Model](https://github.com/menzer-david/mnist-random-forest) - An ML model that reads handwritten digits and classifies them (0-9)
 
 ## 📊 Projects:
+- [Dictopus](https://github.com/menzer-david/Dictopus) - 🐙 Free, fully local push-to-talk dictation for macOS — no cloud, no account, no subscription
 - [Shadow Runner](https://shadow-runner-ten.vercel.app/) - A 2D stealth platformer where you play as a shadow ([Repo](https://github.com/menzer-david/shadow-runner))
 - [World Cup 2026](https://world-cup-2026-alpha-three.vercel.app/) - A World Cup 2026 Website ([Repo](https://github.com/menzer-david/world-cup-2026/))
 - [Pong Game](https://pong-bice-ten.vercel.app/) - A simple Pong game ([Repo](https://github.com/menzer-david/pong))
