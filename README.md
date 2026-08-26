@@ -6,6 +6,7 @@ I am interested in AI Automation, Web Development, and Game Development.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/menzer_david)
 
 ## 💻 Tech Stack:
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -17,7 +18,7 @@ I am interested in AI Automation, Web Development, and Game Development.
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![WPILib](https://img.shields.io/badge/WPILib-AC2B37?logo=first&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?logo=p5dotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
