@@ -1,7 +1,6 @@
 ## 👋 About Me:
 I'm a student/developer.
 I am interested in AI Automation, Web Development, and Game Development.
-Lately I've been building 3D scroll-driven websites, local-first macOS tools, and robot code for FRC.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/menzer_david)
