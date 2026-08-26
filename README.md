@@ -1,6 +1,6 @@
 ## 👋 About Me:
 I'm a student/developer.
-I am interested in AI Automation, Web Development, and Game Development.
+I am interested in AI Automation, Machine Learning, Web Development, and Game Development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/menzer_david)
@@ -30,6 +30,9 @@ I am interested in AI Automation, Web Development, and Game Development.
 - [Digit Classification ML Model](https://github.com/menzer-david/mnist-random-forest) - An ML model that reads handwritten digits and classifies them (0-9)
 
 ## 📊 Projects:
+- [Kart Circuit](https://kart-circuit.vercel.app) - A browser kart racer with a real handling model, items, and lap ghosts ([Repo](https://github.com/menzer-david/kart-circuit))
+- [Foundations](https://github.com/menzer-david/Foundations) - Math notebooks (calculus, linear algebra, NumPy) from my ML studies
+- [FRC Robotics Practice](https://github.com/menzer-david/DifferentialDrive) - WPILib Java subsystems from SciGuides courses ([SimpleShooter](https://github.com/menzer-david/SimpleShooter))
 - [Dictopus](https://github.com/menzer-david/Dictopus) - 🐙 Free, fully local push-to-talk dictation for macOS — no cloud, no account, no subscription
 - [Shadow Runner](https://shadow-runner-ten.vercel.app/) - A 2D stealth platformer where you play as a shadow ([Repo](https://github.com/menzer-david/shadow-runner))
 - [World Cup 2026](https://world-cup-2026-alpha-three.vercel.app/) - A World Cup 2026 Website ([Repo](https://github.com/menzer-david/world-cup-2026/))
